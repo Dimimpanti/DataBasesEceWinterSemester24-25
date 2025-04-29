@@ -1,4 +1,4 @@
-# 🏠 SmartHome ft. Smartwatch Database
+# SmartHome ft. Smartwatch Database
 
 Welcome to the **SmartHome ft. Smartwatch** database project!  
 This system combines smart home automation with smartwatch health tracking and personalized user notifications — all managed through a structured and secure relational database.
