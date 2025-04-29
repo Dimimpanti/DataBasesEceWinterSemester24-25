@@ -5,7 +5,7 @@ This system combines smart home automation with smartwatch health tracking and p
 
 ---
 
-## 📌 What It’s About
+##📌 What It’s About
 
 The database supports:
 - Smart device control (lights, heating, locks, gardening)
